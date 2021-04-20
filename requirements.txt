@@ -34,7 +34,7 @@ Pillow==7.0.0
 pluggy==0.13.1
 pretrainedmodels==0.7.4
 protobuf==3.11.4
-py==1.8.1
+py==1.10.0
 pycparser==2.20
 pycryptodome==3.8.2
 pygame==1.9.6
